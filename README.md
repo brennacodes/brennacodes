@@ -8,7 +8,7 @@
 
 | Learning    | Reading     | Listening to |
 | ----------- | ----------- | ------------ |
-| Follow along: [Turing School](https://brenna.codes)     | [<img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412064931l/23168817.jpg" width=150/>](https://en.wikipedia.org/wiki/The_Dark_Forest)       | [Songs on Spotify](https://open.spotify.com/embed/playlist/5iKS25U1YVt4driqyGNKcV?utm_source=generator) |
+| Follow along: [Turing School](http://brenna.codes)     | [<img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412064931l/23168817.jpg" width=150/>](https://en.wikipedia.org/wiki/The_Dark_Forest)       | [Songs on Spotify](https://open.spotify.com/embed/playlist/5iKS25U1YVt4driqyGNKcV?utm_source=generator) |
 
 
 
