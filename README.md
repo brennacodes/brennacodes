@@ -2,7 +2,13 @@
 
 ## **Who am I?**
 
-**My name is Brenna**. I live in Boulder, Colorado with my furry companion, Leeloo. I am learning Python, Ruby on Rails, and the usual suspects - HTML, CSS, and JavaScript. 
+**My name is Brenna**. My background in the arts and as a product manager in consumer goods gives me a unique perspective when approaching software projects - I am always on the hunt for an approach that is effienct and effective to create things that are intuitive and enjoyable to use. I never get sick of learning, creating, organizing, as well as uncovering and implementing efficiencies. I currently live in Boulder, Colorado with my furry companion, Leeloo. Right now, I am learning Python, Ruby on Rails, testing with Minitest, debugging with Pry, and playing around with the usual suspects - HTML, CSS, and JavaScript. 
+
+Some things I look forward to learning more about in the future are:
+- web3 technologies, 
+- working with open source AI tools (for natural language processing, LIDAR applications of AI, image recognition),
+- functional programming languages ([such as Roc](https://www.roc-lang.org/))
+- working with realtime databases (like [Cloud Firestore](https://firebase.google.com/docs/firestore))
 
 ## **What am I doing?**
 
