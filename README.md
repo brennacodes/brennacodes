@@ -14,7 +14,7 @@ Some things I look forward to learning more about in the future are:
 
 | Learning    | Reading     | Listening to |
 | ----------- | ----------- | ------------ |
-| Follow along [here](https://github.com/brennacodes/ruby-exercises)   | [<img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412064931l/23168817.jpg" width=150/>](https://en.wikipedia.org/wiki/The_Dark_Forest)       | [Songs on Spotify](https://open.spotify.com/embed/playlist/5iKS25U1YVt4driqyGNKcV?utm_source=generator) |
+| Follow along [here](https://github.com/brennacodes/ruby-exercises)   | [<img src="https://images-na.ssl-images-amazon.com/images/I/81gUA3NPH6L.jpg" width=150/>](https://en.wikipedia.org/wiki/Project_Hail_Mary)       | [Songs on Spotify](https://open.spotify.com/embed/playlist/5iKS25U1YVt4driqyGNKcV?utm_source=generator) |
 
 
 
