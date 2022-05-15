@@ -16,9 +16,6 @@ Some things I look forward to learning more about in the future are:
 | ----------- | ----------- | ------------ |
 | Follow along [here](https://github.com/stars/brennacodes/lists/mod-1)   | [<img src="https://images-na.ssl-images-amazon.com/images/I/81gUA3NPH6L.jpg" width=150/>](https://en.wikipedia.org/wiki/Project_Hail_Mary)       | [Songs on Spotify](https://open.spotify.com/embed/playlist/5iKS25U1YVt4driqyGNKcV?utm_source=generator) |
 
-
-![Brenna's GitHub stats](https://github-readme-stats.vercel.app/api?username=brennacodes&theme=apprentice&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brennacodes&layout=compact)](https://github.com/brennacodes/github-readme-stats)
 <!--
 **brennacodes/brennacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
