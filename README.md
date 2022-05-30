@@ -2,7 +2,7 @@
 
 ### **Welcome**
 
-**My name is Brenna**. I'm new to programming. My background in the arts and experience working as a product manager in consumer goods gives me a unique perspective when approaching software projects - I am always on the hunt for an approach that is efficient and effective to create things that are intuitive and enjoyable to use. I never tire of learning, creating, organizing, or uncovering and implementing efficiencies. I currently live in Boulder, Colorado with my furry companion, Leeloo (that's her in the picture with me!). Right now, I am learning Ruby on Rails, testing with RSpec & Minitest, debugging with Pry, a dash of Python, and playing around with the usual suspects - HTML, CSS, and JavaScript. 
+**My name is Brenna**. I'm new to programming. My background in the arts and experience working as a product manager in consumer goods gives me a unique perspective when approaching software projects - I am always on the hunt for an approach that is efficient and effective to create things that are intuitive and enjoyable to use. I never tire of learning, creating, organizing, or uncovering and implementing efficiencies. I currently live in Boulder, Colorado with my furry companion, Leeloo (that's her in the picture with me!). Right now, I am learning Ruby (*Rails coming soon!*), testing with RSpec & Minitest, debugging with Pry and irb, and playing around with the usual suspects on the side - HTML, CSS, and JavaScript. 
 
 Some things I look forward to learning more about in the future are:
 - web3 technologies, 
