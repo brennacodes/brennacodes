@@ -15,13 +15,6 @@ I'm new to programming. My background in the arts and experience working as a pr
 | ----------- | ----------- | ------------ | ------------ |
 | - OOP <br>- TDD <br>- Ruby <br>- RSpec <br>- MiniTest <br>- CLI <br>- Pry <br>- IRB <br>- HTML <br>- CSS   | - Rails <br>- CRUD <br>- User Stories <br>- Database Schema design <br>- Database migrations and normalization <br>- Faraday REST API <br>- Model Testing <br>- Heroku deployment <br>- SQL, PostgreSQL, ActiveRecord <br>- Bootstrap, Tailwind | [<img src="https://images-na.ssl-images-amazon.com/images/I/91lShUTLMCL.jpg" width=150/>](https://www.amazon.com/Upgrade-Novel-Blake-Crouch/dp/0593157532)       | [Songs on Spotify](https://open.spotify.com/playlist/2cFnWQZQZjHyUHSUEXkUzU?si=33ade52d316b4b68) |
 
-
-Some things I look forward to learning more about in the future are:
-- working with realtime databases (like [Cloud Firestore](https://firebase.google.com/docs/firestore)),
-- web3 technologies, 
-- working with open source AI tools (for natural language processing, LIDAR applications of AI, image recognition),
-- functional programming languages ([such as Roc](https://www.roc-lang.org/))
-
 <!--
 **brennacodes/brennacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
