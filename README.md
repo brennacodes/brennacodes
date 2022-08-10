@@ -4,16 +4,24 @@
 </p>
 I'm new to programming. My background in the arts and experience working as a product manager in consumer goods gives me a unique perspective when approaching software projects - I am always on the hunt for an approach that is efficient and effective to create things that are intuitive and enjoyable to use. I never tire of learning, creating, organizing, or uncovering and implementing efficiencies. I currently live in Boulder, Colorado with my furry companion, Leeloo (that's her in the picture with me!). 
 <br>
-<br>
-
-[![Linkedin: BrennaStuart](https://img.shields.io/badge/-brennastuart-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brennastuart/)](https://www.linkedin.com/in/brennastuart/)
-[![GitHub brennacodes](https://img.shields.io/github/followers/brennacodes?label=follow&style=social)](https://github.com/brennacodes)
 
 ## **What am I doing?**
+<table>
+  <tr>
+    <td colspan="2">Learned</td>
+    <td>Learning</td>
+    <td>Reading</td>
+    <td>Listening To</td>
+  </tr>
+  <tr>
+    <td>- OOP <br>- TDD <br>- Ruby <br>- RSpec <br>- MiniTest <br>- CLI <br>- Pry <br>- IRB <br>- HTML <br>- CSS </td>
+    <td>- Rails <br>- MVC architecture <br>- CRUD <br>- User Stories <br>- Database Schema design <br>- Database migrations and normalization <br>- Model Testing <br>- Heroku deployment <br>- SQL, PostgreSQL, ActiveRecord <br>- Bootstrap </td>
+    <td>- Faraday REST API <br>- Webmock <br>- Postman <br>- Graph QL <br>- Authorization <br>- Authentication</td>
+    <td><img src="https://images-na.ssl-images-amazon.com/images/I/91lShUTLMCL.jpg" width=150 href="https://www.amazon.com/Upgrade-Novel-Blake-Crouch/dp/0593157532"> </td>
+    <td><a href="https://open.spotify.com/playlist/2cFnWQZQZjHyUHSUEXkUzU?si=33ade52d316b4b68">Songs on Spotify</a></td>
+  </tr>
+</table>
 
-| Learned     | Learning    | Reading      | Listening To |
-| ----------- | ----------- | ------------ | ------------ |
-| - OOP <br>- TDD <br>- Ruby <br>- RSpec <br>- MiniTest <br>- CLI <br>- Pry <br>- IRB <br>- HTML <br>- CSS <br>- Rails <br>- MVC architecture <br>- CRUD <br>- User Stories <br>- Database Schema design <br>- Database migrations and normalization <br>- Model Testing <br>- Heroku deployment <br>- SQL, PostgreSQL, ActiveRecord <br>- Bootstrap | <br>- Faraday REST API <br>- Webmock <br>- Postman <br>- Graph QL <br>- Authorization <br>- Authentication | [<img src="https://images-na.ssl-images-amazon.com/images/I/91lShUTLMCL.jpg" width=150/>](https://www.amazon.com/Upgrade-Novel-Blake-Crouch/dp/0593157532)       | [Songs on Spotify](https://open.spotify.com/playlist/2cFnWQZQZjHyUHSUEXkUzU?si=33ade52d316b4b68) |
 
 <!--
 **brennacodes/brennacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
