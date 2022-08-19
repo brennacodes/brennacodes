@@ -16,7 +16,7 @@ I'm new to programming. My background in the arts and experience working as a pr
   <tr>
     <td>- OOP <br>- TDD <br>- Ruby <br>- RSpec <br>- MiniTest <br>- CLI <br>- Pry <br>- IRB <br>- HTML <br>- CSS </td>
     <td>- Rails <br>- MVC architecture <br>- CRUD <br>- User Stories <br>- Database Schema design <br>- Database migrations and normalization <br>- Model Testing <br>- Heroku deployment <br>- SQL, PostgreSQL, ActiveRecord <br>- Bootstrap </td>
-    <td>- Faraday REST API <br>- Webmock <br>- Postman <br>- Graph QL <br>- Authorization <br>- Authentication</td>
+    <td>- Faraday REST API <br>- Webmock <br>- Postman <br>- VR <br>- Graph QL <br>- Authorization <br>- Authentication <br>- React <br>- jQuery <br>- Javascript</td>
     <td><img src="https://images-na.ssl-images-amazon.com/images/I/91lShUTLMCL.jpg" width=150 href="https://www.amazon.com/Upgrade-Novel-Blake-Crouch/dp/0593157532"> </td>
     <td><a href="https://open.spotify.com/playlist/2cFnWQZQZjHyUHSUEXkUzU?si=33ade52d316b4b68">Songs on Spotify</a></td>
   </tr>
