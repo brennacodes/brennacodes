@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Back+End+Software+Engineering+Student;Product+Manager;Code-warrior+(6kyu+on+Codewars);Refactoring+Superfan;Lover+of+Nature;Lifelong+Learner;&center=true&width=500&height=50"></a>
 </p>
-I'm new to programming. My background in the arts and experience working as a product manager give me a unique perspective when approaching software projects - I am always on the hunt for an approach that is efficient and effective to create things that are intuitive and enjoyable to use. I never tire of learning, creating, organizing, or uncovering and implementing efficiencies. I currently live in Boulder, Colorado with my furry companion, Leeloo (that's her in the picture with me!). 
+I'm new to programming. My experience working as a product manager and background in the arts give me a unique perspective when approaching software development - I am always on the hunt for processes that are efficient in order to create applications and experiences that are intuitive, enjoyable, and solve actual problems. My world lights up when I witness ideas becoming reality, and I love working with diverse teams to make that happen. Learning, creating, organizing, and uncovering and implementing efficiencies are things I never tire of. I currently live in Boulder, Colorado with my furry companion, Leeloo (that's her in the picture with me!). 
 <br>
 
 ## **What am I doing?**
