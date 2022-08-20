@@ -16,7 +16,7 @@ I'm new to programming. My background in the arts and experience working as a pr
   <tr>
     <td>- OOP <br>- TDD <br>- Ruby <br>- RSpec <br>- MiniTest <br>- CLI <br>- Pry <br>- IRB <br>- HTML <br>- CSS <br>- Rails <br>- CRUD <br>- REST <br>- Bootstrap </td>
     <td>- MVC architecture <br>- User Stories <br>- Database Schema design <br>- Database migrations & normalization <br>- Model Testing <br>- Heroku deployment <br>- SQL, PostgreSQL, ActiveRecord <br>- API creation, consumption,& testing <br>- Faraday, Webmock, VCR  <br>- Authorization, OAuth <br>- OmniAuth, BCrypt, Devise <br>- Sessions, Cookies <br>- Postman</td>
-    <td>- Continuous Integration <br>- Sending Emails via Web Apps <br>- Graph QL <br>- Authentication <br>- React <br>- jQuery <br>- Javascript <br>- Caching</td>
+    <td>- Continuous Integration <br>- Background workers <br>- Graph QL <br>- Authentication <br>- React <br>- jQuery <br>- Javascript <br>- Caching</td>
     <td><img src="https://images-na.ssl-images-amazon.com/images/I/91lShUTLMCL.jpg" width=150 href="https://www.amazon.com/Upgrade-Novel-Blake-Crouch/dp/0593157532"> </td>
     <td><a href="https://open.spotify.com/playlist/2cFnWQZQZjHyUHSUEXkUzU?si=33ade52d316b4b68">Songs on Spotify</a></td>
   </tr>
