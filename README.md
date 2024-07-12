@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Ruby+On+Rails+Developer;Product+Manager;Code-warrior+(6kyu+on+Codewars);Refactoring+Superfan;Lover+of+Nature;Lifelong+Learner;&center=true&width=500&height=50"></a>
-</p>
-
 
 <!--
 **brennacodes/brennacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
